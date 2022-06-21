@@ -10,7 +10,6 @@ module.exports = defineConfig({
     viewportHeight: 800,
     viewportWidth: 1500,
     reporter: "mochawesome"
-  
   },
  
 });
